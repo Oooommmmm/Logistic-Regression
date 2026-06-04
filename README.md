@@ -1,4 +1,4 @@
-##Steps Performed
+##Steps Performed##
 <ul>
 <li>Feature Reduction & Cleaning: Ingested the medical diagnostic dataset into Pandas and stripped extraneous attributes (id and Unnamed: 32) to eliminate non-predictive formatting artifacts and structural noise before training.
 
